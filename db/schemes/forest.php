@@ -1,0 +1,23 @@
+<?php
+$theme_name = "Atelier Forest";
+$theme_author = "Bram de Haan";
+$theme_author_github_name = "atelierbram";
+$theme_license = "MIT";
+$theme_upstream_url = "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-forest";
+$theme_description = "Base color for Forest is orange, and the idea is to have brownish colors for the background, not unlike a colorscheme like “Birds of Paradise”, but a bit muddier on the browns, less red and more greyed out, like clay.";
+$base00 = "#1b1918";
+$base01 = "#2c2421";
+$base02 = "#68615e";
+$base03 = "#766e6b";
+$base04 = "#9c9491";
+$base05 = "#a8a19f";
+$base06 = "#e6e2e0";
+$base07 = "#f1efee";
+$base08 = "#f22c40";
+$base09 = "#df5320";
+$base0A = "#c38418";
+$base0B = "#7b9726";
+$base0C = "#3d97b8";
+$base0D = "#407ee7";
+$base0E = "#6666ea";
+$base0F = "#c33ff3";

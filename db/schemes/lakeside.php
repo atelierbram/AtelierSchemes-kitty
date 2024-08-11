@@ -1,0 +1,23 @@
+<?php
+$theme_name = "Atelier Lakeside";
+$theme_author = "Bram de Haan";
+$theme_author_github_name = "atelierbram";
+$theme_license = "MIT";
+$theme_upstream_url = "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-lakeside";
+$theme_description = "Cool colorscheme for the base color for Lakeside is blue, which means bluish colors for the background.";
+$base00 = "#161b1d";
+$base01 = "#1f292e";
+$base02 = "#516d7b";
+$base03 = "#5a7b8c";
+$base04 = "#7195a8";
+$base05 = "#7ea2b4";
+$base06 = "#c1e4f6";
+$base07 = "#ebf8ff";
+$base08 = "#d22d72";
+$base09 = "#935c25";
+$base0A = "#8a8a0f";
+$base0B = "#568c3b";
+$base0C = "#2d8f6f";
+$base0D = "#257fad";
+$base0E = "#6b6bb8";
+$base0F = "#b72dd2";

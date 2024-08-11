@@ -1,0 +1,23 @@
+<?php
+$theme_name = "Atelier Seaside";
+$theme_author = "Bram de Haan";
+$theme_author_github_name = "atelierbram";
+$theme_license = "MIT";
+$theme_upstream_url = "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-seaside";
+$theme_description = "Base color for Seaside is green: greenish colors for the background. Very saturated color-palette; comes popping at you.";
+$base00 = "#131513";
+$base01 = "#242924";
+$base02 = "#5e6e5e";
+$base03 = "#687d68";
+$base04 = "#809980";
+$base05 = "#8ca68c";
+$base06 = "#cfe8cf";
+$base07 = "#f4fbf4";
+$base08 = "#e6193c";
+$base09 = "#87711d";
+$base0A = "#98981b";
+$base0B = "#29a329";
+$base0C = "#1999b3";
+$base0D = "#3d62f5";
+$base0E = "#ad2bee";
+$base0F = "#e619c3";

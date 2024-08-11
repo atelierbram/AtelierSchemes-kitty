@@ -1,0 +1,23 @@
+<?php
+$theme_name = "Atelier Savanna";
+$theme_author = "Bram de Haan";
+$theme_author_github_name = "atelierbram";
+$theme_license = "MIT";
+$theme_upstream_url = "https://github.com/atelierbram/AtelierSchemes-kitty/blob/main/themes/atelier-savanna";
+$theme_description = "Base color for Savanna is green, it has greenish colors for the background. “Color-wheel colors” are desaturated considerably, giving this colorscheme a rather understated appeal and, dear I say it, a ‘natural’ look and feel.";
+$base00 = "#171c19";
+$base01 = "#232a25";
+$base02 = "#526057";
+$base03 = "#5f6d64";
+$base04 = "#78877d";
+$base05 = "#87928a";
+$base06 = "#dfe7e2";
+$base07 = "#ecf4ee";
+$base08 = "#b16139";
+$base09 = "#9f713c";
+$base0A = "#a07e3b";
+$base0B = "#489963";
+$base0C = "#1c9aa0";
+$base0D = "#478c90";
+$base0E = "#55859b";
+$base0F = "#867469";
